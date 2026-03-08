@@ -1,19 +1,33 @@
-# Budget-vs-Actual-analysis
-This project analyzes budget vs actual financial performance using public nonprofit data.
+Project Overview
 
-## Tools
+This project analyzes responses from a Chicago budget survey to understand how residents prioritize city spending and revenue policies.
+
+Dataset
+
+Chicago Budget Survey dataset containing resident responses on spending priorities and revenue policies.
+
+Tools
+
 Python
+
 Pandas
-Excel
+
 Matplotlib
 
-## Key Insights
-- Program expenses exceeded budget by 12%
-- Administrative costs remained stable
-- Revenue volatility increased in Q4
+Google Colab
 
-## Dashboard
-(image)
+Key Findings
 
-## How to Run
-Instructions here
+Infrastructure received the strongest support for increased spending.
+
+Community programs and public safety also showed strong support.
+
+Regulatory services had the lowest support for budget increases.
+
+Visualization
+
+(insert chart image)
+
+Future Analysis
+
+Future work could examine spending priorities by ZIP code to identify geographic differences in policy preferences.
