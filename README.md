@@ -26,7 +26,8 @@ Regulatory services had the lowest support for budget increases.
 
 Visualization
 
-(insert chart image)
+<img width="1064" height="547" alt="image" src="https://github.com/user-attachments/assets/83793d4d-f61d-48e4-bb5a-9ad4df7d4a04" />
+
 
 Future Analysis
 
