@@ -1,34 +1,45 @@
-Project Overview
+# Chicago Budget Priorities Analysis
+
+## Overview
 
 This project analyzes responses from a Chicago budget survey to understand how residents prioritize city spending and revenue policies.
 
-Dataset
+The goal is to translate public sentiment into insights that can support data-driven decision-making in public finance and resource allocation.
 
-Chicago Budget Survey dataset containing resident responses on spending priorities and revenue policies.
+---
 
-Tools
+## What This Analysis Covers
 
-Python
+- Analysis of resident spending priorities across key city services
+- Identification of categories with the strongest and weakest public support
+- Comparison of community preferences to highlight policy trends
+- Visualization of survey responses to support clear interpretation
 
-Pandas
+---
 
-Matplotlib
+## Key Insights
 
-Google Colab
+- Infrastructure received the strongest support for increased spending, indicating high public demand for investment in core city assets.
+- Community programs and public safety also showed strong support, suggesting a balanced focus on both development and safety.
+- Regulatory services had the lowest support for budget increases, indicating lower perceived priority among residents.
+- Public preferences highlight areas where city leadership can align budget decisions with community expectations.
 
-Key Findings
+---
 
-Infrastructure received the strongest support for increased spending.
+## Business Application
 
-Community programs and public safety also showed strong support.
+This analysis demonstrates how data can be used to inform budgeting and policy decisions by incorporating stakeholder perspectives.
 
-Regulatory services had the lowest support for budget increases.
+It reflects how finance and policy teams can use survey data to:
+- Prioritize resource allocation
+- Support transparent budgeting decisions
+- Align financial planning with community needs
 
-Visualization
+---
 
-<img width="1064" height="547" alt="image" src="https://github.com/user-attachments/assets/83793d4d-f61d-48e4-bb5a-9ad4df7d4a04" />
+## Tools Used
 
-
-Future Analysis
-
-Future work could examine spending priorities by ZIP code to identify geographic differences in policy preferences.
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
